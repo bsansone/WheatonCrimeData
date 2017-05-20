@@ -1,8 +1,8 @@
 WheatonCrimeData
 =========================
 
-## About
-The Wheaton Police Department publishes reports each week outlining crimes and arrests that occurred in Wheaton. If you are looking for a Crime Report earlier than this year, see the archived links at bottom of page.
+### About
+The Wheaton Police Department publishes reports each week outlining crimes and arrests that occurred in Wheaton, Il.
 
 ### Project Scope
 
