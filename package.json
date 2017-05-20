@@ -1,0 +1,22 @@
+{
+  "name": "wheaton-crime-data",
+  "version": "1.0.0",
+  "description": "WheatonCrimeData",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsansone/WheatonCrimeData.git"
+  },
+  "author": "Brandon Sansone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsansone/WheatonCrimeData/issues"
+  },
+  "homepage": "https://github.com/bsansone/WheatonCrimeData#readme",
+  "dependencies": {
+    "pdf2json": "^1.1.7"
+  }
+}
