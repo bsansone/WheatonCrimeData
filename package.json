@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/bsansone/WheatonCrimeData#readme",
   "dependencies": {
+    "lodash": "^4.17.4",
+    "pdf-to-text": "0.0.6",
     "pdf2json": "^1.1.7"
   }
 }
